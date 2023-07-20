@@ -2,7 +2,7 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,virtualenv
 
 # scraping/csv
-scraping/csv
+code/scraping/csv
 
 ### Python ###
 # Byte-compiled / optimized / DLL files
